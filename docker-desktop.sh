@@ -39,5 +39,5 @@ if [ ! -d $USR_BIN ]; then  #check usr/bin is exist docker
 fi
 
 # install dokcer desktop
-#wget -P ~/Downloads "https://desktop.docker.com/linux/main/amd64/docker-desktop-4.18.0-x86_64.pkg.tar.zst"
-#sudo pacman -U ~/Downloads/docker-desktop-4.18.0-x86_64.pkg.tar.zst
+wget -P ~/Downloads "https://desktop.docker.com/linux/main/amd64/docker-desktop-4.18.0-x86_64.pkg.tar.zst"
+sudo pacman -U ~/Downloads/docker-desktop-4.18.0-x86_64.pkg.tar.zst
