@@ -1,6 +1,6 @@
 #make directory
 DIR_HOME=$(echo ~)
-mkdir $DIR_HOME/Documents || echo "error "&& exit
+#mkdir $DIR_HOME/Documents || echo "error "&& exit
 
 cd $DIR_HOME/Documents/
 
