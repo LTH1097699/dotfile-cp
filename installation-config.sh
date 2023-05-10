@@ -32,3 +32,6 @@ echo "----------Regenerate the font caches completely-------------"
 #exec openbox-session
 #Init-freedom Linux distributions
 #exec dbus-launch --exit-with-x11 openbox-session
+
+#mount external disk by add new line to /etc/fstab with option : defaults
+#UUID=xxx /data btrfs  defaults 0 0

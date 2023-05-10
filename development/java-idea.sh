@@ -2,9 +2,6 @@
 
 #wget doc: https://www.computerhope.com/unix/wget.htm or wget --help
 
-#install java 17
-sudo pacman -S jdk17-openjdk
-
 #install intellij version 2023.1.1
 INTELLIJ_VERSION="ideaIC-2023.1.1.tar.gz"
 

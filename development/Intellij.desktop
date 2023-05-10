@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Intellij
+Icon=/opt/ideaIC/bin/idea.svg
+Exec=/opt/ideaIC/bin/idea.sh
+TryExec=/opt/ideaIC/bin/idea.sh
+Categories=Development;IDE;
+Terminal=false
+#StartupWMClass=jetbrains-datagrip
