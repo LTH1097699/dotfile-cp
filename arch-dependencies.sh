@@ -27,3 +27,8 @@ sudo chsh -s $(command -v zsh)
 git clone --depth 1 https://github.com/zdharma-continuum/fast-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/fast-syntax-highlighting
 git clone --depth 1 https://github.com/zsh-users/zsh-autosuggestions.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
 git clone --depth 1 https://github.com/zsh-users/zsh-completions.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-completions
+
+
+#torrent transmission : https://objects.githubusercontent.com/github-production-release-asset-2e65be/35129809/0e7bbf21-fe21-4905-b3e0-3af285632ff9?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20230513%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230513T131922Z&X-Amz-Expires=300&X-Amz-Signature=009cf1212d80bdc925b0a1982432e3ff373e89d24600b256c6e22e49288e2d9e&X-Amz-SignedHeaders=host&actor_id=86413845&key_id=0&repo_id=35129809&response-content-disposition=attachment%3B%20filename%3Dtransmission-4.0.3.tar.xz&response-content-type=application%2Foctet-stream
+
+#https://transmissionbt.com/download
