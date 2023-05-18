@@ -1,0 +1,13 @@
+
+#echo
+echo -e "user1\nuser2"  #allow print a new line in the same output line
+
+#nano
+mark set: ctrl + 6 , again to unmark
+copy : alt + 6
+past : ctrl + u
+
+
+#disk
+sudo blkid  #check uuid disk
+
