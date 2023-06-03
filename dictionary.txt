@@ -11,3 +11,7 @@ past : ctrl + u
 #disk
 sudo blkid  #check uuid disk
 
+#eval
+- use to run agruments like shell command
+- ex: CD="echo something"&&eval $CD => something
+
